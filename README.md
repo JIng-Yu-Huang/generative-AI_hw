@@ -1,4 +1,4 @@
-# generative-AI_hw1
+# generative-AI_hw
 姓名：黃靖妤  
 系級：資教所 碩一  
 課程名稱：生成式AI：文字與圖像生成的原理與實務_國立臺灣師範大學  
