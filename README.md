@@ -12,4 +12,5 @@
 第七週(0401):用Ollama打造自己的對話機器人  
 第八週(0408):打造RAG 系統  
 第九週(0415):AI Agent設計模式_Reflection、Planning  
-第十週(0422):利用Bing進行文字生圖
+第十週(0422):利用Bing進行文字生圖  
+第十一週(0429):打造Stable_Diffusion的WebUI
