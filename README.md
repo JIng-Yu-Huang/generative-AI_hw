@@ -15,3 +15,4 @@
 第十週(0422):利用Bing進行文字生圖  
 第十一週(0429):打造Stable_Diffusion的WebUI  
 第十二週(0506):在colab上使用Fooocus  
+第十三週(0513): 期末專題發想  
